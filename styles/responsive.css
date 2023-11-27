@@ -1,0 +1,18 @@
+
+@media only screen and (max-width: 600px) {
+    .quotes-text{
+        font-size: 2rem;
+    }
+    .fa-quote-left{
+        font-size: 1.5rem;
+    }
+    .long-quote{
+        font-size:1.5rem;
+    }
+    .author-text{
+        font-size: 1.5rem;
+    }
+    button{
+        font-size: 1rem;
+    }
+}
